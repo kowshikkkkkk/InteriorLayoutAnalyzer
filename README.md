@@ -632,9 +632,7 @@ Memory Usage:        ~500MB
 
 <div align="center">
 
-### **Built with ❤️ for Interior Design Automation**
 
-**[⭐ Star this repo if you find it useful!](https://github.com/kowshikkkkkk/InteriorLayoutAnalyzer)**
 
 [**Live Demo (API Docs)**](http://localhost:8000/docs) • [**GitHub**](https://github.com/kowshikkkkkk/InteriorLayoutAnalyzer) • [**Report Issue**](https://github.com/kowshikkkkkk/InteriorLayoutAnalyzer/issues)
 
