@@ -8,7 +8,7 @@
 
 **Production-grade computer vision system** for detecting and analyzing interior fixtures from room images. Extracts spatial layout information for design automation, quotation systems, and visualization workflows.
 
-> **Perfect for:** Design software platforms (like Cyncly), interior designers, retail furniture stores, and manufacturing quotation systems.
+> **Perfect for:** Design software platforms, interior designers, retail furniture stores, and manufacturing quotation systems.
 
 ---
 
