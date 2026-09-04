@@ -452,32 +452,7 @@ Customer uploads: living_room.jpg (4500x3000 pixels)
 ---
 
 ## 🔌 Integration Examples
-
-### For Cyncly's Design Software
-
-```python
-# Step 1: User uploads room photo
-photo = upload_image()
-
-# Step 2: Interior Layout Analyzer processes it
-response = requests.post('http://api:8000/analyze-image', 
-                        files={'file': photo})
-
-# Step 3: Design software auto-populates fixtures
-for fixture in response['detections']['fixtures']:
-    design_software.add_object(
-        type=fixture['class_name'],
-        position=fixture['center'],
-        confidence=fixture['confidence']
-    )
-
-# Step 4: Designer can now:
-# - Adjust existing furniture
-# - Add new items
-# - Generate quotation automatically
-```
-
-### For E-commerce Retailers
+## For E-commerce Retailers
 
 ```javascript
 // Frontend: Allow customer to upload room photo
