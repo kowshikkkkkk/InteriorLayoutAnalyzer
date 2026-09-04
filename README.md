@@ -592,29 +592,6 @@ graph LR
     style E fill:#f44336
 ```
 
-### Coming Soon
-- [ ] **Real-time Video Processing**: Stream detection from webcam
-- [ ] **3D Depth Estimation**: Monocular depth for 3D coordinates
-- [ ] **Fine-tuned Models**: Custom YOLOv8 for interior-specific objects
-- [ ] **Material Detection**: Identify wood, metal, fabric, etc.
-- [ ] **Room Type Classification**: Automatic kitchen/bedroom/living room detection
-- [ ] **AR Visualization**: Preview designs in augmented reality
-- [ ] **Mobile App**: iOS/Android companion app
-
----
-
-## 🤝 Integration with Cyncly
-
-### Why This Matters for Cyncly
-
-Cyncly's design software (Winner Flex, 3CAD, Spaces Flex) can now:
-
-1. **Auto-populate room data** from customer photos
-2. **Extract spatial constraints** automatically
-3. **Accelerate design cycle** by 40-50%
-4. **Reduce manual measurement** errors
-5. **Enable self-service quoting** for customers
-
 ### Integration Workflow
 
 ```
@@ -631,21 +608,7 @@ Quotation generated automatically
 Customer receives proposal in minutes (not hours)
 ```
 
----
 
-## 📝 License
-
-**MIT License** - Free for commercial and personal use
-
-```
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software.
-```
-
----
 
 ## 👨‍💻 Author & Contact
 
